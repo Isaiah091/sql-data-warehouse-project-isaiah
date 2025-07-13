@@ -1,2 +1,4 @@
-# sql-data-warehouse-project-isaiah
-Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics
+# Data Warehouse 1
+
+This is Isaiah's **Data Warehouse and Analytics Project** Repository
+
