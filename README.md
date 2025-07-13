@@ -1,4 +1,6 @@
-# Data Warehouse 1
+# Data Warehouse Project
 
-This is Isaiah's **Data Warehouse and Analytics Project** Repository
+This is Isaiah's **Data Warehouse and Analytics Project** Repository 🥳
+
+## Project Requirements:
 
